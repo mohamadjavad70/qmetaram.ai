@@ -53,3 +53,8 @@ out
 # Misc
 .DS_Store
 *.pem
+
+# secrets
+.env
+.env.*
+!.env.example
